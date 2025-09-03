@@ -32,7 +32,7 @@ The main goals of this project were to:
 
 ### 🔑 Findings :
 
-Age & Gender: Most purchases came from customers between 18–45 years.
+  - **Age & Gender :** Most purchases came from customers between 18–45 years.
 
   - **Products :** 👕 Clothing and 👟 Footwear were the most bought categories. 
 

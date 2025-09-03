@@ -111,7 +111,7 @@ This analysis can help:
 
 ## 💡 Author
 **Prathmesh Gaikwad**  
-[LinkedIn Profile](https://www.linkedin.com/in/harsh-agrawal-aab41a36b/)
+[LinkedIn Profile](https://www.linkedin.com/in/prathmesh-gaikwad-bbb142322/)
 
 ---
 

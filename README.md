@@ -1,4 +1,4 @@
-# USA-Shopping-Trend-Analysis--Excel-Dashboard
+# USA-Shopping-Trend-Pattern-Analysis--Excel-Dashboard
 
 An interactive Excel dashboard designed to analyze the **USA Shopping** dataset. where I explored customer purchase behavior and shopping preferences using Excel.
 

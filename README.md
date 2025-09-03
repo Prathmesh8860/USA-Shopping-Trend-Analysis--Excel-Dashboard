@@ -45,28 +45,37 @@ Age & Gender: Most purchases came from customers between 18–45 years.
   - **Loyal Customers :** 🔄 Subscribed and frequent buyers usually spent more. 
 
 ---
-## 📊 Key Visuals in the Dashboard
-- **KPI Cards**: Total Sales, Total Profit, Avg. Shipping Cost
-- **Sales by Region & Segment**: Clustered bar chart
-- **Top 5 Countries by Sales**: Pie chart
-- **Yearly Sales, Profit & Growth %**: Combo chart
-- **Top 10 Products (Profit, Orders, Quantity)**: Column chart
-- **Segment-wise Shipping Cost**: Horizontal bar chart
-- **Sub-Category Orders by Country**: Stacked column chart
+### 📌 Key Visuals in the Dashboard :
 
-### 📊 Summary of Insights (Charts & Graphs) :
+- **KPI Cards :** Showing Total Sales, Total Orders, and Average Purchase Value.
 
- - Category-wise Sales (Bar Chart): Showed that Clothing had the highest sales, followed by Footwear, while Accessories had the least contribution.
+- **Sales by Category :** Bar chart comparing Clothing, Footwear, and Accessories.
 
- - Age Group vs. Purchase Amount (Column Chart): Indicated that young adults (18–30) and middle-aged (31–45) customers spent the most.
+- **Payment Methods Share :** Pie chart highlighting Credit Card, PayPal, Cash, and Bank Transfer usage.
 
- - Seasonal Trend (Line Chart): Highlighted peak shopping in Winter and Spring, with dips in Summer.
+- **Season-wise Sales Trend :** Line chart showing sales peaks in Winter & Spring.
 
- - Payment Methods (Pie Chart): Revealed that Credit Card and PayPal together made up the largest share, while Bank Transfer and Cash were used less.
+- **Customer Age Group Analysis :** Column chart for purchase amounts by age ranges.
 
- - Discount vs. No Discount (Stacked Bar Chart): Purchases with discounts and promo codes had significantly higher volumes compared to those without.
+- **Subscription vs. Non-subscription Sales :** Clustered bar chart showing impact of subscriptions.
 
- - Subscription Impact (Clustered Chart): Showed that subscribed customers made more frequent and higher-value purchases compared to non-subscribers.
+- **Discount Effect on Sales :** Stacked bar chart comparing sales with vs. without discounts.
+
+---
+
+### 📊 Summary of Insights :
+
+ - **Category-wise Sales :** Showed that Clothing had the highest sales, followed by Footwear, while Accessories had the least contribution.
+
+ - **Age Group vs. Purchase Amount :** Indicated that young adults (18–30) and middle-aged (31–45) customers spent the most.
+
+ - **Seasonal Trend :** Highlighted peak shopping in Winter and Spring, with dips in Summer.
+
+ - **Payment Methods :** Revealed that Credit Card and PayPal together made up the largest share, while Bank Transfer and Cash were used less.
+
+ - **Discount vs. No Discount :** Purchases with discounts and promo codes had significantly higher volumes compared to those without.
+
+ - **Subscription Impact :** Showed that subscribed customers made more frequent and higher-value purchases compared to non-subscribers.
 
 ---
 
@@ -97,3 +106,18 @@ This analysis can help:
 🎟️ E-commerce managers design better discount & promo strategies to boost sales.
 
 🔄 Customer success teams increase loyalty by focusing on subscription-based buyers.
+
+---
+
+## 💡 Author
+**Prathmesh Gaikwad**  
+[LinkedIn Profile](https://www.linkedin.com/in/harsh-agrawal-aab41a36b/)
+
+---
+
+## 📄 License
+This project is for educational and portfolio purposes.
+
+---
+
+#excel #dashboard #dataanalytics #salesanalysis #excelproject #businessintelligence #datavisualization
